@@ -228,30 +228,10 @@ curl http://localhost:3002/health
 - Validación de parámetros de entrada
 - Manejo seguro de errores
 
-## 🐛 Problemas Conocidos
-
-- Los datos son simulados (no hay conexión a transformadores reales)
-- El estado de la aplicación se pierde al reiniciar el servidor
-- Limitado a 3 transformadores por defecto
-
-## 🛠️ Mejoras Futuras
-
-- [ ] Conexión a base de datos real
-- [ ] Autenticación de usuarios
-- [ ] Notificaciones push
-- [ ] Exportación de reportes
-- [ ] Integración con sistemas SCADA
-- [ ] Análisis predictivo con ML
-
-## 📄 Licencia
-
-MIT License - ver [LICENSE](LICENSE) para más detalles.
-
 ## 👨‍💻 Autor
 
 **Enrique Bobadilla**
 - GitHub: [@yop007n](https://github.com/yop007n)
-- Email: enrique@example.com
 
 ## 🤝 Contribuciones
 
